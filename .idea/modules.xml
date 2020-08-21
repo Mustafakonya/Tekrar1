@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tekrar1.iml" filepath="$PROJECT_DIR$/Tekrar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumIlkProje.iml" filepath="$PROJECT_DIR$/SeleniumIlkProje.iml" />
     </modules>
   </component>
 </project>
